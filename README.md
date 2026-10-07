@@ -19,6 +19,15 @@ My strength is connecting **business requirements, people, technology, vendors, 
 - **Digital operations** — e-commerce, inventory, fulfillment, logistics and cross-functional delivery
 - **Stakeholder management** — sponsors, business owners, technical teams, vendors, partners and end users
 
+## Explore my work
+
+| Repository | What to explore |
+|---|---|
+| [Project Management Portfolio](https://github.com/DPLUS007/project-management-portfolio) | Career case studies across enterprise, AI and digital delivery |
+| [ERP/COTS Implementation Case Study](https://github.com/DPLUS007/erp-cots-implementation-case-study) | A clearly identified simulated implementation with delivery artifacts |
+| [Project Management Toolkit](https://github.com/DPLUS007/project-management-toolkit) | Reusable governance and implementation templates |
+| [Python Rollout Readiness Checker](https://github.com/DPLUS007/project-management-toolkit/tree/main/tools/rollout-readiness) | Runnable code, CSV example, JSON reports and automated tests |
+
 ## Featured portfolio
 
 ### [Project Management Portfolio](https://github.com/DPLUS007/project-management-portfolio)
